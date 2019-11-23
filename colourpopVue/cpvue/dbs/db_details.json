@@ -1,0 +1,40 @@
+{
+    "details":[
+        {   "pid":1,
+            "product":{
+                "pid":1,"family_id":1,"main_id":1,"product_id":1,"name":"yes,please!",
+                "title":"What do we say to warm, sunset eyes?",
+                "subtitle":"NULL","category":"shadow palette","price":16,"sale_price":null,
+                "finish":"matte, metallic",
+                "shade":"neutrals, oranges/corals, reds, golds, yellows/oranges",
+                "net_weigth":"12 x 0.85g (0.03oz)",
+                "tips":"apply with your favorite shadow brushes. flat and firmer brushes will give the most color payoff. fluffier brushes are great for",
+                "ingredients":"full-zip: synthetic fluorphlogopite, talc, boron nitride, zinc stearate, lauroyl lysine, magnesium stearate, dimethicone, capryl",
+                "detail":"highly pigmented shadow that applies evenly and feels ultra-velvety and silky. this long wearing formula contains a unique combination of softer powders which adheres easily to the eyes, gives a soft. "},
+            "pics":{
+                "pid":1,
+                "palette_id":1,
+                "sm":"img/car_small_img/Yes_Please_A_small.webp",
+                "nor":"../../public/img/eye-palettes/Yes_Please.webp"
+            }
+        },
+        {
+            "pid":2,
+            "product":{"pid":2,"family_id":1,"main_id":1,"product_id":2,"name":"sweet talk",
+                "title":"Fun peach, vibrant coral, and a mix of self-adhering glitter toppers - create the look you want with ease. When you feel pretty,",
+                "subtitle":"NULL","category":"shadow palette","price":16,"sale_price":null,
+                "finish":"matte, metallic",
+                "shade":"oranges/corals, neutrals, yellows/oranges, pinks, golds, reds, b",
+                "net_weigth":"12 x 0.85g (0.03oz)",
+                "tips":"apply with your favorite shadow brushes. flat and firmer brushes will give the most color payoff. fluffier brushes are great for",
+                "ingredients":"full-zip: synthetic fluorphlogopite, talc, boron nitride, zinc stearate, lauroyl lysine, magnesium stearate, dimethicone, capryl",
+                "detail":"highly pigmented shadow that applies evenly and feels ultra-velvety and silky. this long wearing formula contains a unique combination of softer powders which adheres easily to the eyes, gives a soft "},
+                "pics":{
+                    "pid":2,
+                    "palette_id":2,
+                    "sm":"img/car_small_img/sweet_talk_palette_small.webp",
+                    "nor":"../../public/img/eye-palettes/sweet_talk_palette.webp"
+                }
+        }
+    ]
+}

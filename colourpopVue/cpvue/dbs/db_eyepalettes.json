@@ -1,0 +1,85 @@
+{
+    "eyepalettes":[
+        {
+            "pid":1,"family_id":1,"main_id":1,"product_id":1,"name":"yes,please!",
+            "title":"What do we say to warm, sunset eyes?","subtitle":"NULL","category":"shadow palette","price":16,"sale_price":null,
+            "finish":"matte, metallic",
+            "shade":"neutrals, oranges/corals, reds, golds, yellows/oranges",
+            "net_weigth":"12 x 0.85g (0.03oz)",
+            "tips":"apply with your favorite shadow brushes. flat and firmer brushes will give the most color payoff. fluffier brushes are great for","ingredients":"full-zip: synthetic fluorphlogopite, talc, boron nitride, zinc stearate, lauroyl lysine, magnesium stearate, dimethicone, capryl","detail":"highly pigmented shadow that applies evenly and feels ultra-velvety and silky. this long wearing formula contains a unique combination of softer powders which adheres easily to the eyes, gives a soft ",
+            "pic":"img/eye-palettes/Yes_Please.webp","href":"products.html?pid=1"
+        },
+        {
+            "pid":2,"family_id":1,"main_id":1,"product_id":2,"name":"sweet talk",
+            "title":"Fun peach, vibrant coral, and a mix of self-adhering glitter toppers - create the look you want with ease. When you feel pretty,","subtitle":"NULL",
+            "category":"shadow palette","price":16,"sale_price":null,"finish":"matte, metallic","shade":"oranges/corals, neutrals, yellows/oranges, pinks, golds, reds, b",
+            "net_weigth":"12 x 0.85g (0.03oz)","tips":"apply with your favorite shadow brushes. flat and firmer brushes will give the most color payoff. fluffier brushes are great for",
+            "ingredients":"full-zip: synthetic fluorphlogopite, talc, boron nitride, zinc stearate, lauroyl lysine, magnesium stearate, dimethicone, capryl","detail":"highly pigmented shadow that applies evenly and feels ultra-velvety and silky. this long wearing formula contains a unique combination of softer powders which adheres easily to the eyes, gives a soft ",
+            "pic":"img/eye-palettes/sweet_talk_palette.webp","href":"products.html?pid=2"
+        },
+        {
+            "pid":3,"family_id":1,"main_id":1,"product_id":3,"name":"uh-huh-honey",
+            "title":"Sweet like honey, bright like the sun.","subtitle":"This yellow monochromatic palette features every shade of yellow under the sun.","category":"shadow palette",
+            "price":12,"sale_price":null,
+            "finish":"matte, metallic",
+            "shade":"yellows, golds, neutrals",
+            "net_weigth":"12 x 0.85g (0.03oz)",
+            "tips":"apply with your favorite shadow brushes. flat and firmer brushes will give the most color payoff. fluffier brushes are great for","ingredients":"full-zip: synthetic fluorphlogopite, talc, boron nitride, zinc stearate, lauroyl lysine, magnesium stearate, dimethicone, capryl","detail":"highly pigmented shadow that applies evenly and feels ultra-velvety and silky. this long wearing formula contains a unique combination of softer powders which adheres easily to the eyes, gives a soft ",
+            "pic":"img/eye-palettes/yellow_palette.jpg","href":"products.html?pid=3"
+        },
+        {
+            "pid":4,"family_id":1,"main_id":1,"product_id":4,"name":"what ever",
+            "title":"Call it whatever, wear it however – just know, this is the palette of the season.",
+            "subtitle":"Rich burgundy, warm terracotta, mixed finish shadows and glitters make this palette the only one you need for your fall glam.",
+            "category":"shadow palette",
+            "price":18,
+            "sale_price":null,"finish":"matte, metallic","shade":"matte deep red plum",
+            "net_weigth":"12 x 0.85g (0.03oz)",
+            "tips":"apply with your favorite shadow brushes. flat and firmer brushes will give the most color payoff. fluffier brushes are great for","ingredients":"full-zip: synthetic fluorphlogopite, talc, boron nitride, zinc stearate, lauroyl lysine, magnesium stearate, dimethicone, capryl","detail":"highly pigmented shadow that applies evenly and feels ultra-velvety and silky. this long wearing formula contains a unique combination of softer powders which adheres easily to the eyes, gives a soft ",
+            "pic":"img/eye-palettes/CA_Love_a.webp","href":"products.html?pid=4"
+        },
+        {
+            "pid":5,"family_id":1,"main_id":1,"product_id":5,"name":"california love",
+            "title":"Consider this our love song to the West Coast.",
+            "subtitle":"The perfect warm golden eyeshadow palette to create the perfect day to night look or California sunset eye.",
+            "category":"shadow palette","price":18,"sale_price":null,
+            "finish":"matte, metallic",
+            "shade":"golds, neutrals, yellows/oranges, oranges/corals, reds, browns",
+            "net_weigth":"12 x 0.85g (0.03oz)",
+            "tips":"apply with your favorite shadow brushes. flat and firmer brushes will give the most color payoff. fluffier brushes are great for","ingredients":"full-zip: synthetic fluorphlogopite, talc, boron nitride, zinc stearate, lauroyl lysine, magnesium stearate, dimethicone, capryl","detail":"highly pigmented shadow that applies evenly and feels ultra-velvety and silky. this long wearing formula contains a unique combination of softer powders which adheres easily to the eyes, gives a soft ",
+            "pic":"img/eye-palettes/CA_Love_a.webp","href":"products.html?pid=5"
+        },
+        {
+            "pid":6,"family_id":1,"main_id":1,"product_id":6,"name":"give it to me straight",
+            "title":"Let \"s be frank, everyone loves a good neutral palette.",
+            "subtitle":"Give It To Me Straight is better than basic.",
+            "category":"shadow palette","price":16,"sale_price":null,"finish":"matte, metallic","shade":"neutrals, pinks, golds, oranges/corals, browns, reds",
+            "net_weigth":"12 x 0.85g (0.03oz)",
+            "tips":"apply with your favorite shadow brushes. flat and firmer brushes will give the most color payoff. fluffier brushes are great for",
+            "ingredients":"full-zip: synthetic fluorphlogopite, talc, boron nitride, zinc stearate, lauroyl lysine, magnesium stearate, dimethicone, capryl","detail":"highly pigmented shadow that applies evenly and feels ultra-velvety and silky. this long wearing formula contains a unique combination of softer powders which adheres easily to the eyes, gives a soft ",
+            "pic":"img/eye-palettes/GITMS_A.webp","href":"products.html?pid=6"
+        },
+        {
+            "pid":7,"family_id":1,"main_id":1,"product_id":7,"name":"she",
+            "title":"It’s coming up roses in soft mauve tones and buttery metallic finishes.","subtitle":"Romantic shades make it easy to transition from sweet damsel to femme fatale.",
+            "category":"shadow palette",
+            "price":16,"sale_price":null,"finish":"matte, metallic",
+            "shade":"neutrals, pinks, golds, reds, purples, oranges/corals","net_weigth":"12 x 0.85g (0.03oz)",
+            "tips":"apply with your favorite shadow brushes. flat and firmer brushes will give the most color payoff. fluffier brushes are great for",
+            "ingredients":"full-zip: synthetic fluorphlogopite, talc, boron nitride, zinc stearate, lauroyl lysine, magnesium stearate, dimethicone, capryl","detail":"highly pigmented shadow that applies evenly and feels ultra-velvety and silky. this long wearing formula contains a unique combination of softer powders which adheres easily to the eyes, gives a soft ",
+            "pic":"img/eye-palettes/Spring_Palette.jpg","href":"products.html?pid=7"
+        },
+        {
+            "pid":8,"family_id":1,"main_id":1,"product_id":8,"name":"double entendre","title":"The perfect nude palette doesn’t exi- ",
+            "subtitle":"Look no further. Warm nudes, every day shades, your makeup routine’s sidekick is here! With 12 shades, ranging from cool to warm",
+            "category":"shadow palette","price":16,"sale_price":null,
+            "finish":"matte, metallic",
+            "shade":"neutrals, golds, browns, oranges/corals",
+            "net_weigth":"12 x 0.85g (0.03oz)",
+            "tips":"apply with your favorite shadow brushes. flat and firmer brushes will give the most color payoff. fluffier brushes are great for",
+            "ingredients":"full-zip: synthetic fluorphlogopite, talc, boron nitride, zinc stearate, lauroyl lysine, magnesium stearate, dimethicone, capryl","detail":"highly pigmented shadow that applies evenly and feels ultra-velvety and silky. this long wearing formula contains a unique combination of softer powders which adheres easily to the eyes, gives a soft ",
+            "pic":"img/eye-palettes/Double_Entendre.webp","href":"products.html?pid=8"
+        }
+        
+    ]
+}
